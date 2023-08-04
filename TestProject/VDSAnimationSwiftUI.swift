@@ -87,6 +87,8 @@ struct SquareShape: Shape {
 }
 
 
+
+
 //
 //struct SquareView: View {
 //    private let strokeColor = Color.orange
